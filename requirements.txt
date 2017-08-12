@@ -1,0 +1,10 @@
+certifi==2017.7.27.1
+chardet==3.0.4
+Django==1.11.4
+djangorestframework==3.6.3
+future==0.16.0
+idna==2.5
+pytz==2017.2
+requests==2.18.3
+simplejson==3.11.1
+urllib3==1.22
